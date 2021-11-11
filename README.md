@@ -4,7 +4,7 @@
 Atual estudante de desenvolvimento de sistemas, pretendendo atuar na área!
 
 
-## Sobre mim （￣︶￣）↗　
+## Sobre mim （￣︶￣）
 
 Gosto de abacaxi 🍍
 
