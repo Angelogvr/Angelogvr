@@ -1,17 +1,17 @@
 
-# α Bem vindo! (☞ﾟヮﾟ)☞
+# Bem vindo! (☞ﾟヮﾟ)☞
 
 Atual estudante de desenvolvimento de sistemas, pretendendo atuar na área!
 
 
-## α Sobre mim 
+## Sobre mim （￣︶￣）↗　
 
 Gosto de abacaxi 🍍
 
 Gosto de jogar, assistir vídeos e conversar 🕹
 
 Aberto para experiências novas 🙃
-## Dados
+## Dados 🎲
 
 <div>
   <a href="https://github.com/Angelogvr">
@@ -29,7 +29,7 @@ Aberto para experiências novas 🙃
 
 ![Figma Badge](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-## α Total de Visitas 🔍
+## Total de Visitas 🔍
  <p align="center"> 
    <img align="center" src="https://profile-counter.glitch.me/Angelogvr/count.svg"/>
  </p>
