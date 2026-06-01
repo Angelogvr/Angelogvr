@@ -12,7 +12,3 @@ Atual estudante de desenvolvimento de sistemas, pretendendo atuar na área!
 
 ![Figma Badge](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-## Total de Visitas 🔍
- <p align="center"> 
-   <img align="center" src="https://profile-counter.glitch.me/Angelogvr/count.svg"/>
- </p>
